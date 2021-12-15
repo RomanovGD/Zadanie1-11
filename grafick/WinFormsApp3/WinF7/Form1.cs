@@ -52,5 +52,10 @@ namespace pr7_1WF
             Form2 form2 = new Form2();
             form2.Show();
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
